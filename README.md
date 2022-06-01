@@ -7,7 +7,7 @@ The Dateformat is "de" pleace change it in your language.
 
 please initialize it with follow items.
 
-npm init
+npm init, 
 npm i express body-parser ejs
 
 optional:
